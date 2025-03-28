@@ -1,6 +1,5 @@
 nltk
 scikit-learn
-nltk.downloader
 streamlit
 xgboost
 tfidf
