@@ -1,0 +1,6 @@
+nltk
+scikit-learn
+streamlit
+xgboost
+tfidf
+scipy
