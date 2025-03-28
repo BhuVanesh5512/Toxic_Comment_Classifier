@@ -3,6 +3,7 @@ import pickle
 import re
 import string
 import numpy as np
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 from scipy.sparse import hstack, csr_matrix
 from sklearn.preprocessing import MaxAbsScaler  # Import MaxAbsScaler
