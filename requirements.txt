@@ -1,4 +1,6 @@
 nltk
+nltk.downloader
+nitk.download("stopwords")
 scikit-learn
 streamlit
 xgboost
